@@ -165,6 +165,7 @@ int main()
 
         if (line != "0")
             fout << endl;
+
         brokenClock = workingClock;
     }
     return 0;
